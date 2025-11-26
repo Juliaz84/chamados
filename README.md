@@ -1,4 +1,4 @@
-# Sistema de Chamados - TechSolve
+# Sistema de Chamados 
 
 Sistema de gerenciamento de chamados desenvolvido em **Python** usando **Tkinter** e **SQLite**.  
 Permite cadastrar, consultar, atualizar e excluir chamados de clientes, com controle de prioridade e status.
